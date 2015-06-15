@@ -1,0 +1,51 @@
+body {
+	background: url('file:///C:/Users/Thomas/Desktop/Selenium Java/important code/assignment1/resume_json/picts/background.jpg')
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+th, td {
+	padding: 4px;
+}
+#myname {
+	padding-bottom: 20px;
+	text-align: center;
+	text-decoration: underline;
+	white-space: nowrap;
+	font-family: Arizonia, 'Arial Black', Gadget, sans-serif;
+	font-weight: bold;
+	font-size: 5em;
+}
+
+div.mainBlock {
+	padding-bottom: 25px;
+}
+
+#title {
+	display: block;
+    margin-left: 6px;
+    margin-right: 8px;
+	text-indent: 4px;
+	background-color: linen;
+    color: navy;
+	text-transform: uppercase;
+	font-family: Helvetica, Tahoma, cambria, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+#content {
+	display: block;
+    margin-left: 8px;
+    margin-right: 8px;
+	background-color: white;
+    color: black;
+	font-family: Helvetica, Tahoma, cambria, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+td.column1 {
+	white-space:nowrap;
+}
+td.column2 {
+	width: 100%;
+}

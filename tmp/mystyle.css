@@ -1,0 +1,38 @@
+table, th, td {
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+th, td {
+	padding: 5px;
+}
+
+div.mainInfo {
+	padding-bottom: 25px;
+}
+
+#name {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 40px;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+#title {
+	display: block;
+    margin-left: 5px;
+	text-indent: 10px;
+	background-color: linen;
+    color: navy;
+	text-transform: uppercase;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+#content {
+	display: block;
+    margin-left: 10px;
+	text-indent: 20px;
+	background-color: white;
+    color: black;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: normal;
+}

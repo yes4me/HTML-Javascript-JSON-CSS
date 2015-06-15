@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WORK_EXPERIENCE>
+	<NEWINFO>
+		<HEADER>2014-2015</HEADER>
+		<DATA>Student: Participated in multiple Selenium meetup and developed a demo in Selenium and Ruby and took classes in UCSC</DATA>
+	</NEWINFO>
+	<NEWINFO>
+		<HEADER>2015</HEADER>
+		<DATA>Student: Taking Android classes with SimpliLearn, Coursera and Udacity</DATA>
+	</NEWINFO>
+	<NEWINFO>
+		<HEADER>2000-2003</HEADER>
+		<DATA><![CDATA[Senior Software Engineer | KEYNOTE SYSTEMS, INC<br />
+			* Redesigned in ASP &amp; Javascript &amp; Graphic Server &amp; Netcharts the GUI interface, Alarm, Email, Diagnostic, and Graphing components of MyKeynote (www.mykeynote.com). Efforts to dramatically improved technological efficiency and usability.<br />
+			* Worked on Alarm V6.1.0, a key service that provides customers with timely email or pager alerts when sites are down or other problems occur.<br />
+			* Developed a Java demo for DataPulse, a real-time performance and reliability data feed, used at the Global Internet Performance Conference (GIPC), San Francisco, 2002<br />
+			* Member of two-people team that converted MyKeynote into Japanese and French languages.<br />
+			* Helped QA to implement the logic for Selenium, a Web browser automation<br />]]>
+		</DATA>
+	</NEWINFO>
+</WORK_EXPERIENCE>

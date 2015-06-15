@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SKILL>
+	<NEWINFO>
+		<HEADER>Programming</HEADER>
+		<DATA>Android apps, Java, XML, Selenium, Ruby, JUnit, Apache Log4J2, MySQL, Autohotkey, JavaScript, HTML, CSS, ASP</DATA>
+	</NEWINFO>
+	<NEWINFO>
+		<HEADER>Software</HEADER>
+		<DATA>Android Studio, Eclipse, SourceTree &amp; GitHubs, Ruby/RSpec</DATA>
+	</NEWINFO>
+	<NEWINFO>
+		<HEADER>Systems</HEADER>
+		<DATA>Windows (every version)</DATA>
+	</NEWINFO>
+</SKILL>
