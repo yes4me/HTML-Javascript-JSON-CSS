@@ -1,11 +1,7 @@
 var work_json = [
 	{
 	"HEADER": "2014-2015",
-	"DATA": "Student: Participated in multiple Selenium meetup and developed a demo in Selenium and Ruby and took classes in UCSC"
-	},
-	{
-	"HEADER": "2015",
-	"DATA": "Student: Taking Android classes with SimpliLearn, Coursera and Udacity"
+	"DATA": "Student:<ul><li>Participated in multiple Selenium meetups and developed a demo in Selenium and Ruby</li><li>Taking Android classes with SimpliLearn, Coursera and Udacity and developed multiple apps.</li><li>took classes in UCSC	</li></ul>"
 	},
 	{
 	"HEADER": "2000-2003",
